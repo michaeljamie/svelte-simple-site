@@ -20,6 +20,7 @@
     "start:dev": "sirv public --dev"
   },
   "dependencies": {
+    "braces": "^3.0.2",
     "ws": "^7.0.0"
   }
 }
