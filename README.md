@@ -6,6 +6,8 @@
 
 A quick dive-in to Svelte to see the differences from React and Vue.  
 
+![image](https://user-images.githubusercontent.com/26236137/68437393-0cc58600-017e-11ea-9af0-0486a39d45f0.png)
+
 I've heard great things about Svelte, especially about not needing a virtual DOM and found a tutorial on Dev.to from Valentino Gagliardi to learn more.
 
 [Site found here](http://svelte-simple-site.surge.sh/ "Svelte Simple Site")
